@@ -1,0 +1,55 @@
+<div navbar-directive></div>
+
+<div class="ui attached very padded text container segment" style="background-color: #D9D9D9;min-height: 100%;">
+    <div class="ui middle aligned grid">
+        <div class="row">
+            <div class="ui three column grid">
+                <div class="column">
+                    <div class="ui fluid card">
+                        <div class="image">
+                            <img ng-src="{{album.cover}}">
+                        </div>
+                        <div class="content">
+                            <h5 class="ui header">
+                                {{album.name}}
+                                <div class="padded sub header">{{album.artist}}</div>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <table class="ui very basic collapsing celled table">
+                <thead>
+                    <tr>
+                        <th colspan="2">
+                            {{album.name}}
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="(key, value) in array = (tracks)">
+                        <td>
+                            <h4 class="ui image header">
+                                <img ng-src="{{album.cover}}" class="ui mini rounded image">
+                                <div class="content">
+                                    {{value.name}}
+                                    <div class="sub header">{{album.artist}}
+                                    </div>
+                                </div>
+                            </h4>
+                        </td>
+                        <td>
+                            <div class="ui icon three bottom buttons">
+                                <button class="ui grey basic button" ng-click="updateReps(key)"><i class="play icon"></i></button>
+                                <button class="ui grey basic button"><i class="pause icon"></i></button>
+                                <button class="ui grey basic button"><i class="shuffle icon"></i></button>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

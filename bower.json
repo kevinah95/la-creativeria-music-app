@@ -1,0 +1,31 @@
+{
+    "name": "la-creativeria-music-app",
+    "description": "",
+    "main": "server.js",
+    "authors": [
+        "Kevin Hernández Rostrán"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "^1.6.4",
+        "semantic": "semantic-ui#^2.2.10",
+        "angular-ui-router": "^1.0.4",
+        "angular-route": "^1.6.0",
+        "angular-css": "^1.0.8",
+        "angular-animate": "^1.6.4",
+        "firebase": "^3.9.0",
+        "angularfire": "^2.3.0",
+        "glidejs": "^2.1.0",
+        "slick-carousel": "^1.6.0",
+        "angular-ui-carousel": "^0.1.9",
+        "angular-toastr": "^2.1.1"
+    }
+}

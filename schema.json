@@ -1,0 +1,280 @@
+{
+    "albums": {
+        "alb012": {
+            "name": "Permaneciendo en tu presencia",
+            "artist": "Lucas Conslie",
+            "cover": "http://files.playax.com/artists/m/510076-lucas-conslie.jpg",
+            "solds": 0,
+            "tracks": {
+                "track01": {
+                    "name": "Entrelazados",
+                    "reps": 0
+                },
+                "track02": {
+                    "name": "Estas Aquí",
+                    "reps": 0
+                },
+                "track03": {
+                    "name": "Eres Todo Lo Que Necesito",
+                    "reps": 0
+                },
+                "track04": {
+                    "name": "Tu Amor",
+                    "reps": 0
+                },
+                "track05": {
+                    "name": "Enciende Mi Corazón",
+                    "reps": 0
+                },
+                "track06": {
+                    "name": "Eres Santo",
+                    "reps": 0
+                },
+                "track07": {
+                    "name": "Permaneciendo En Tu Presencia ",
+                    "reps": 0
+                },
+                "track08": {
+                    "name": "Tú Eres Siempre Igual",
+                    "reps": 0
+                },
+                "track09": {
+                    "name": "Lo Que Quieres Recibir",
+                    "reps": 0
+                },
+                "track10": {
+                    "name": "Al Rey",
+                    "reps": 0
+                }
+            }
+        },
+        "alb783": {
+            "name": "Unleashed",
+            "artist": "Skillet",
+            "cover": "http://www.thechristianbeat.org/images/ALBUMS/unleashed.jpg",
+            "solds": 0,
+            "tracks": {
+                "track01": {
+                    "name": "Feel Invincible",
+                    "reps": 0
+                },
+                "track02": {
+                    "name": "Back from the Dead",
+                    "reps": 0
+                },
+                "track03": {
+                    "name": "Stars",
+                    "reps": 0
+                },
+                "track04": {
+                    "name": "I Want to Live",
+                    "reps": 0
+                },
+                "track05": {
+                    "name": "Undefeated",
+                    "reps": 0
+                },
+                "track06": {
+                    "name": "Famous",
+                    "reps": 0
+                },
+                "track07": {
+                    "name": "Lions",
+                    "reps": 0
+                },
+                "track08": {
+                    "name": "Out of Hell",
+                    "reps": 0
+                },
+                "track09": {
+                    "name": "Burn it Down",
+                    "reps": 0
+                },
+                "track10": {
+                    "name": "Watching for Comets",
+                    "reps": 0
+                },
+                "track11": {
+                    "name": "Saviors of the World",
+                    "reps": 0
+                },
+                "track12": {
+                    "name": "The Resistance",
+                    "reps": 0
+                }
+            }
+        },
+        "alb907": {
+            "name": "18 Months",
+            "artist": "Calvin Harris",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/Calvin_Harris_-_18_Months.png",
+            "solds": 0,
+            "tracks": {
+                "track01": {
+                    "name": "Green Valley",
+                    "reps": 0
+                },
+                "track02": {
+                    "name": "Bounce",
+                    "reps": 0
+                },
+                "track03": {
+                    "name": "Feel So Close",
+                    "reps": 0
+                },
+                "track04": {
+                    "name": "We Found Love",
+                    "reps": 0
+                },
+                "track05": {
+                    "name": "We'll Be Coming Back",
+                    "reps": 0
+                },
+                "track06": {
+                    "name": "Mansion",
+                    "reps": 0
+                },
+                "track07": {
+                    "name": "Iron",
+                    "reps": 0
+                },
+                "track08": {
+                    "name": "I Need Your Love",
+                    "reps": 0
+                },
+                "track09": {
+                    "name": "Drinking from the Bottle",
+                    "reps": 0
+                },
+                "track10": {
+                    "name": "Sweet Nothing",
+                    "reps": 0
+                },
+                "track11": {
+                    "name": "School",
+                    "reps": 0
+                },
+                "track12": {
+                    "name": "Here 2 China",
+                    "reps": 0
+                },
+                "track13": {
+                    "name": "Let's Go",
+                    "reps": 0
+                },
+                "track14": {
+                    "name": "Awooga",
+                    "reps": 0
+                },
+                "track15": {
+                    "name": "Thinking About You",
+                    "reps": 0
+                }
+            }
+        },
+        "alb578": {
+            "name": "Derroche de Amor",
+            "artist": "Alex Campos",
+            "cover": "https://www.inspiradosxcristo.com/resources/Alex%20Campos%20-%20Derroche%20de%20Amor%2C%202015%2C%20nuevo%20album%2C%20completo.jpg.opt850x850o0%2C0s850x850.jpg",
+            "solds": 0,
+            "tracks": {
+                "track01": {
+                    "name": "Por Escuchar Tu Voz",
+                    "reps": 0
+                },
+                "track02": {
+                    "name": "Cuando Una Lágrima Cae",
+                    "reps": 0
+                },
+                "track03": {
+                    "name": "Derroche De Amor",
+                    "reps": 0
+                },
+                "track04": {
+                    "name": "Mi Fiesta",
+                    "reps": 0
+                },
+                "track05": {
+                    "name": "Deus (feat. Thalles Roberto)",
+                    "reps": 0
+                },
+                "track06": {
+                    "name": "Tu Amor",
+                    "reps": 0
+                },
+                "track07": {
+                    "name": "Reflejo De Ti",
+                    "reps": 0
+                },
+                "track08": {
+                    "name": "Si Estoy Contigo (feat. Barak)",
+                    "reps": 0
+                },
+                "track09": {
+                    "name": "Vuelve",
+                    "reps": 0
+                },
+                "track10": {
+                    "name": "Te Respiro",
+                    "reps": 0
+                },
+                "track11": {
+                    "name": "Lo Que Buscas De Mí (feat. Marcos Brunet)",
+                    "reps": 0
+                },
+                "track12": {
+                    "name": "Como Lluvia",
+                    "reps": 0
+                }
+            }
+        },
+        "alb786": {
+            "name": "Pure Heroine",
+            "artist": "Lorde",
+            "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lorde_Pure_Heroine.png/800px-Lorde_Pure_Heroine.png",
+            "solds": 0,
+            "tracks": {
+                "track01": {
+                    "name": "Tennis Court",
+                    "reps": 0
+                },
+                "track02": {
+                    "name": "400 Lux",
+                    "reps": 0
+                },
+                "track03": {
+                    "name": "Royals",
+                    "reps": 0
+                },
+                "track04": {
+                    "name": "Ribs",
+                    "reps": 0
+                },
+                "track05": {
+                    "name": "Buzzcut Season",
+                    "reps": 0
+                },
+                "track06": {
+                    "name": "Team",
+                    "reps": 0
+                },
+                "track07": {
+                    "name": "Glory and Gore",
+                    "reps": 0
+                },
+                "track08": {
+                    "name": "Still Sane",
+                    "reps": 0
+                },
+                "track09": {
+                    "name": "White Teeth Teens",
+                    "reps": 0
+                },
+                "track10": {
+                    "name": "A World Alone",
+                    "reps": 0
+                }
+            }
+        }
+    }
+}
